@@ -1,0 +1,8 @@
+all_solar_data/
+combined_solar_data.py
+combined_solar_radiation.csv
+__pycache__/
+data_extract.py
+env/
+.ipynb_checkpoints/   
+.vscode/
